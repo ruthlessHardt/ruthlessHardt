@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ruthlessHardt
-- 👀 like coding，making things easy!
-- 🌱 -------------------------------
+fly
 
 <!---
 ruthlessHardt/ruthlessHardt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
